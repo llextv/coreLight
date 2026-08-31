@@ -1,0 +1,35 @@
+Category / Component,Manufacturer Part / Type,Quantity,Unit Price (USD),Total Price (USD),LCSC Link
+Microcontroller,STM32H743ZIT6,1,15.50,15.50,https://www.lcsc.com/category/941.html
+Ethernet Controller,W5500,1,2.15,2.15,https://www.lcsc.com/product-detail/C32843.html
+DMX Transceiver,MAX3485ESA+,14,0.45,6.30,https://www.lcsc.com/product-detail/C22447116.html
+Multiplexer,CD74HC4067M,1,0.32,0.32,https://www.lcsc.com/product-detail/C496123.html
+RTC,DS3231M+,1,1.80,1.80,https://www.lcsc.com/product-detail/C1520508.html
+SDRAM,IS42S16400J-7TL,1,1.20,1.20,https://www.lcsc.com/product-detail/C94865.html
+SPI Flash,W25Q128JVSIQ,1,0.75,0.75,https://www.lcsc.com/product-detail/C113767.html
+3.3V Regulator,AP2112K-3.3,1,0.22,0.22,https://www.lcsc.com/product-detail/C23380830.html
+5V Regulator,LM2596S-ADJ,1,0.45,0.45,https://www.lcsc.com/product-detail/C194351.html
+Power Monitor,INA226AIDGST,1,1.10,1.10,https://www.lcsc.com/product-detail/C2653870.html
+Temperature Sensor,TMP117AIDRVR,1,1.40,1.40,https://www.lcsc.com/product-detail/C699536.html
+USB ESD Protection,USBLC6-2SC6,1,0.08,0.08,https://www.lcsc.com/product-detail/C5261088.html
+DMX TVS Protection,SM712,13,0.15,1.95,https://www.lcsc.com/product-detail/C908219.html
+Schottky Diode,1N5819,1,0.03,0.03,https://www.lcsc.com/product-detail/C2474.html
+Switching Diode,1N4148,1,0.01,0.01,https://www.lcsc.com/product-detail/C49318123.html
+Capacitor 100nF (0805),0805 X7R 50V 100nF,33,0.005,0.17,https://www.lcsc.com/product-detail/C49678.html
+Capacitor 4.7µF (0805),0805 X5R 25V 4.7µF,23,0.01,0.23,https://www.lcsc.com/product-detail/C1779.html
+Capacitor 22pF (0805),0805 C0G 50V 22pF,4,0.005,0.02,https://www.lcsc.com/product-detail/C1804.html
+Resistor 10k (0805),0805 1% 1/8W 10k,15,0.004,0.06,https://www.lcsc.com/product-detail/C2907219.html
+Resistor 330R (0805),0805 1% 1/8W 330R,9,0.004,0.04,https://www.lcsc.com/product-detail/C17630.html
+Resistor 120R (0805),0805 1% 1/8W 120R,1,0.004,0.004,https://www.lcsc.com/product-detail/C17437.html
+RJ45 Connector,HR911105A,1,0.85,0.85,https://www.lcsc.com/product-detail/C12074.html
+MicroSD Connector,DM3D-SF,1,0.30,0.30,https://www.lcsc.com/product-detail/C719027.html
+USB-C Connector,USB-C 16P (SMD),1,0.18,0.18,https://www.lcsc.com/product-detail/C165948.html
+24V Terminal Block,Phoenix 5.08mm 2P,1,0.15,0.15,https://www.lcsc.com/product-detail/C5183929.html
+JST XH Connectors,JST-XH 2P/3P/4P/5P,15,0.05,0.75,https://www.lcsc.com/product-detail/C144394.html
+3.5mm Audio Jack,Audio Jack 3.5mm (LTC),1,0.12,0.12,https://www.lcsc.com/product-detail/C49284723.html
+Rotary Encoder,EC11 with Switch,1,0.25,0.25,https://www.lcsc.com/product-detail/C2991196.html
+Push Buttons,Tactile Switch 6x6mm,6,0.03,0.18,https://www.lcsc.com/product-detail/C7528752.html
+Buzzer,Buzzer 3.3V,1,0.10,0.10,https://www.lcsc.com/product-detail/C252915.html
+Battery Holder,CR2032 Battery Holder,1,0.20,0.20,https://www.lcsc.com/product-detail/C964792.html
+Crystal Quartz,Crystal 25MHz (3225),2,0.08,0.16,https://www.lcsc.com/product-detail/C9006.html
+Transistor,2N7002,1,0.011,0.011,https://www.lcsc.com/product-detail/C916396.html
+Resettable Fuse,2920L500/30GR,1,0.15,0.15,https://www.lcsc.com/product-detail/C19078763.html
