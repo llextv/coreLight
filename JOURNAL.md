@@ -51,7 +51,7 @@ For software Part:
 My inspiration & search:
 https://www.malighting.com/product/grandma3-processing-unit-m-4010510/
 https://www.malighting.com/product/grandma3-replay-unit-4010507/
-![alt text](image.png)
+![alt text](Images/image.png)
 
 https://youtu.be/EvGTUB3FaL8?si=SulDiDoXiLldTTPZ
 https://youtu.be/4lftq21JBpA?si=IHUjlWr8QZtvwl7I
@@ -304,3 +304,14 @@ in markdown:
 **Total time spent: 3 hours**
 
 # Day 13: Organise workspace & create README.md
+![alt text](Images/image-50.png)
+
+Update image in Images workspace + put cad in /cad folder
+I made README: ![alt text](image.png)
+
+About software part:
+Actually I would like flashing QLC+ on this processing unit but after I can flash lot of soft on it
+
+QLCPlus link: https://github.com/mcallegari/qlcplus/
+
+**Total time spent: 0.5 hours**
