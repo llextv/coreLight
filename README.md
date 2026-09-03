@@ -278,6 +278,7 @@ The complete KiCad schematic is available in:
 ```text
 /scheme
 ```
+![Scheme](Images/image-1.png)
 
 ---
 
