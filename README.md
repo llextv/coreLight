@@ -238,6 +238,9 @@ A future web interface will provide access to:
 
 The controller is intended to be configurable from a browser without requiring a dedicated screen.
 
+Software link for the moment: 
+https://www.qlcplus.org/download#
+
 ---
 
 ## PCB and enclosure
